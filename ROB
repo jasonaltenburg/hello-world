@@ -1,0 +1,6 @@
+#I am ROB
+class HUMAN:
+    def __init__(self, name):
+        self.name = name
+
+ROB = HUMAN('Roberto Chauvez-Salvadore')
